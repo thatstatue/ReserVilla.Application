@@ -1,0 +1,15 @@
+C:\Users\NoteBook\source\repos\DummyWebApp.Utility\bin\Debug\net8.0\DummyWebApp.Application.deps.json
+C:\Users\NoteBook\source\repos\DummyWebApp.Utility\bin\Debug\net8.0\DummyWebApp.Application.dll
+C:\Users\NoteBook\source\repos\DummyWebApp.Utility\bin\Debug\net8.0\DummyWebApp.Application.pdb
+C:\Users\NoteBook\source\repos\DummyWebApp.Utility\bin\Debug\net8.0\DummyWebApp.Domain.dll
+C:\Users\NoteBook\source\repos\DummyWebApp.Utility\bin\Debug\net8.0\DummyWebApp.Domain.pdb
+C:\Users\NoteBook\source\repos\DummyWebApp.Utility\obj\Debug\net8.0\DummyWebApp.Application.csproj.AssemblyReference.cache
+C:\Users\NoteBook\source\repos\DummyWebApp.Utility\obj\Debug\net8.0\DummyWebApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NoteBook\source\repos\DummyWebApp.Utility\obj\Debug\net8.0\DummyWebApp.Application.AssemblyInfoInputs.cache
+C:\Users\NoteBook\source\repos\DummyWebApp.Utility\obj\Debug\net8.0\DummyWebApp.Application.AssemblyInfo.cs
+C:\Users\NoteBook\source\repos\DummyWebApp.Utility\obj\Debug\net8.0\DummyWebApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\NoteBook\source\repos\DummyWebApp.Utility\obj\Debug\net8.0\DummyWeb.97551F98.Up2Date
+C:\Users\NoteBook\source\repos\DummyWebApp.Utility\obj\Debug\net8.0\DummyWebApp.Application.dll
+C:\Users\NoteBook\source\repos\DummyWebApp.Utility\obj\Debug\net8.0\refint\DummyWebApp.Application.dll
+C:\Users\NoteBook\source\repos\DummyWebApp.Utility\obj\Debug\net8.0\DummyWebApp.Application.pdb
+C:\Users\NoteBook\source\repos\DummyWebApp.Utility\obj\Debug\net8.0\ref\DummyWebApp.Application.dll
